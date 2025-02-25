@@ -5,6 +5,6 @@ I'm proud to be a lifelong learner, specializing in AI, Data Science, and Machin
 I'm a QA expert with over 25 years of experience.
 
 ## :zap: Recent Activity
-<!--START_SECTION: activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION: activity-->
+<!--RECENT_ACTIVITY:last_update-->
