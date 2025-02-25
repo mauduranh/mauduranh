@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Mauricio Durán Heinrich! 👋
+
+I'm proud to be a lifelong learner, specializing in AI, Data Science, and Machine Learning.
+
+I'm a QA expert with over 25 years of experience.
+
 
 <!--
 **mauduranh/mauduranh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
